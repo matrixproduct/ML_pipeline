@@ -1,0 +1,4 @@
+Generic templates for regression, classification, multi-class classification and meta-labeling.
+They are constantly updated by including all new useful functions and methods and tested on the Skybot.
+
+ 
